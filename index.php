@@ -28,7 +28,7 @@
 <body>
     
     <div class="container bg-white wrapper shadow p-4">
-        <h2 class="title text-center mb-4">Simple File Downloader</h2>
+        <h2 class="title text-center mb-4">Any File Downloader</h2>
         <form action="" method="post" class="form">
             <div class="mb-3">
                 <label for="url" class="form-label">URL</label>
@@ -37,7 +37,10 @@
             <button type="submit" name="submit" class="btn btn-primary w-100 shadow-sm">Download</button>
         </form>
     </div>
-
+<!-- Footer -->
+<div class="footer">
+    <p>&copy; 2022 SF18 dev, All rights reserved.</p>
+</div>
     <!-- Bootstrap Bundle -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"></script>
 </body>
